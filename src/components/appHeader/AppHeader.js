@@ -1,5 +1,4 @@
 import './appHeader.scss';
-
 const AppHeader = () => {
     return (
         <header className="app__header">
